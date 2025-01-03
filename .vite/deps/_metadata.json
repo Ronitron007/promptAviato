@@ -1,0 +1,295 @@
+{
+  "hash": "593978c9",
+  "configHash": "8ac0ffb2",
+  "lockfileHash": "d2ebdb4f",
+  "browserHash": "a96f8016",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "7baa80a5",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "d85e0e32",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "6874afe8",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "f392aad2",
+      "needsInterop": false
+    },
+    "antd": {
+      "src": "../../node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "cacf4ce6",
+      "needsInterop": false
+    },
+    "ui-box": {
+      "src": "../../../../../../../aviato-ui/node_modules/ui-box/dist/src/index.js",
+      "file": "ui-box.js",
+      "fileHash": "de8b661d",
+      "needsInterop": true
+    },
+    "@babel/runtime/helpers/esm/defineProperty": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "@babel_runtime_helpers_esm_defineProperty.js",
+      "fileHash": "43a49e2e",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/extends": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "@babel_runtime_helpers_esm_extends.js",
+      "fileHash": "77dcc16a",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/objectWithoutProperties": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
+      "file": "@babel_runtime_helpers_esm_objectWithoutProperties.js",
+      "fileHash": "8b96a44d",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../../../../../../aviato-ui/node_modules/prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "90137bfa",
+      "needsInterop": true
+    },
+    "react-is": {
+      "src": "../../../../../../../aviato-ui/node_modules/react-is/index.js",
+      "file": "react-is.js",
+      "fileHash": "7b0363a4",
+      "needsInterop": true
+    },
+    "@babel/runtime/helpers/esm/slicedToArray": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
+      "file": "@babel_runtime_helpers_esm_slicedToArray.js",
+      "fileHash": "e94bb87f",
+      "needsInterop": false
+    },
+    "@segment/react-tiny-virtual-list": {
+      "src": "../../../../../../../aviato-ui/node_modules/@segment/react-tiny-virtual-list/build/react-tiny-virtual-list.es.js",
+      "file": "@segment_react-tiny-virtual-list.js",
+      "fileHash": "7a55b5c0",
+      "needsInterop": false
+    },
+    "downshift": {
+      "src": "../../../../../../../aviato-ui/node_modules/downshift/dist/downshift.esm.js",
+      "file": "downshift.js",
+      "fileHash": "315c0823",
+      "needsInterop": false
+    },
+    "fuzzaldrin-plus": {
+      "src": "../../../../../../../aviato-ui/node_modules/fuzzaldrin-plus/lib/fuzzaldrin.js",
+      "file": "fuzzaldrin-plus.js",
+      "fileHash": "7e0ebd0e",
+      "needsInterop": true
+    },
+    "react-transition-group": {
+      "src": "../../../../../../../aviato-ui/node_modules/react-transition-group/esm/index.js",
+      "file": "react-transition-group.js",
+      "fileHash": "482fc8c3",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/toConsumableArray": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js",
+      "file": "@babel_runtime_helpers_esm_toConsumableArray.js",
+      "fileHash": "b2ed248b",
+      "needsInterop": false
+    },
+    "lodash.isempty": {
+      "src": "../../../../../../../aviato-ui/node_modules/lodash.isempty/index.js",
+      "file": "lodash__isempty.js",
+      "fileHash": "63c8caf0",
+      "needsInterop": true
+    },
+    "humanize-plus": {
+      "src": "../../../../../../../aviato-ui/node_modules/humanize-plus/dist/humanize.js",
+      "file": "humanize-plus.js",
+      "fileHash": "c9716ae5",
+      "needsInterop": true
+    },
+    "lodash.merge": {
+      "src": "../../../../../../../aviato-ui/node_modules/lodash.merge/index.js",
+      "file": "lodash__merge.js",
+      "fileHash": "533e590f",
+      "needsInterop": true
+    },
+    "arrify": {
+      "src": "../../../../../../../aviato-ui/node_modules/arrify/index.js",
+      "file": "arrify.js",
+      "fileHash": "922a07eb",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../../../../../aviato-ui/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "46e43ee2",
+      "needsInterop": true
+    },
+    "@babel/runtime/helpers/esm/classCallCheck": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "@babel_runtime_helpers_esm_classCallCheck.js",
+      "fileHash": "d4a10f37",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/createClass": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "@babel_runtime_helpers_esm_createClass.js",
+      "fileHash": "31442740",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/inherits": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "@babel_runtime_helpers_esm_inherits.js",
+      "fileHash": "4f1ce28d",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/possibleConstructorReturn": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "@babel_runtime_helpers_esm_possibleConstructorReturn.js",
+      "fileHash": "f663824c",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/getPrototypeOf": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "@babel_runtime_helpers_esm_getPrototypeOf.js",
+      "fileHash": "1855ec37",
+      "needsInterop": false
+    },
+    "@babel/runtime/helpers/esm/typeof": {
+      "src": "../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/typeof.js",
+      "file": "@babel_runtime_helpers_esm_typeof.js",
+      "fileHash": "64935966",
+      "needsInterop": false
+    },
+    "lodash.omit": {
+      "src": "../../../../../../../aviato-ui/node_modules/lodash.omit/index.js",
+      "file": "lodash__omit.js",
+      "fileHash": "03c41cd2",
+      "needsInterop": true
+    },
+    "lodash.debounce": {
+      "src": "../../../../../../../aviato-ui/node_modules/lodash.debounce/index.js",
+      "file": "lodash__debounce.js",
+      "fileHash": "99479fc4",
+      "needsInterop": true
+    },
+    "lodash.differencewith": {
+      "src": "../../../../../../../aviato-ui/node_modules/lodash.differencewith/index.js",
+      "file": "lodash__differencewith.js",
+      "fileHash": "64722b93",
+      "needsInterop": true
+    },
+    "lodash.uniqby": {
+      "src": "../../../../../../../aviato-ui/node_modules/lodash.uniqby/index.js",
+      "file": "lodash__uniqby.js",
+      "fileHash": "85b38688",
+      "needsInterop": true
+    },
+    "react-element-to-jsx-string": {
+      "src": "../../node_modules/react-element-to-jsx-string/dist/esm/index.js",
+      "file": "react-element-to-jsx-string.js",
+      "fileHash": "391bf3c0",
+      "needsInterop": false
+    },
+    "react-fast-compare": {
+      "src": "../../../../../../../aviato-ui/node_modules/react-fast-compare/index.js",
+      "file": "react-fast-compare.js",
+      "fileHash": "0171ef9c",
+      "needsInterop": true
+    },
+    "prettier/parser-html": {
+      "src": "../../node_modules/prettier/plugins/html.js",
+      "file": "prettier_parser-html.js",
+      "fileHash": "e2097abb",
+      "needsInterop": true
+    },
+    "prettier/standalone": {
+      "src": "../../node_modules/prettier/standalone.mjs",
+      "file": "prettier_standalone.js",
+      "fileHash": "f9de4f79",
+      "needsInterop": false
+    },
+    "prettier/plugins/estree": {
+      "src": "../../node_modules/prettier/plugins/estree.mjs",
+      "file": "prettier_plugins_estree.js",
+      "fileHash": "86d67b8c",
+      "needsInterop": false
+    },
+    "prettier/parser-markdown": {
+      "src": "../../node_modules/prettier/plugins/markdown.js",
+      "file": "prettier_parser-markdown.js",
+      "fileHash": "6828a0e3",
+      "needsInterop": true
+    },
+    "prettier/parser-espree": {
+      "src": "../../node_modules/prettier/plugins/acorn.js",
+      "file": "prettier_parser-espree.js",
+      "fileHash": "fbac93fd",
+      "needsInterop": true
+    },
+    "prettier/parser-postcss": {
+      "src": "../../node_modules/prettier/plugins/postcss.js",
+      "file": "prettier_parser-postcss.js",
+      "fileHash": "bd6f0c1f",
+      "needsInterop": true
+    },
+    "prettier/parser-babel": {
+      "src": "../../node_modules/prettier/plugins/babel.js",
+      "file": "prettier_parser-babel.js",
+      "fileHash": "e06befa7",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-BHQ4RBPT": {
+      "file": "chunk-BHQ4RBPT.js"
+    },
+    "chunk-DJWVDXT6": {
+      "file": "chunk-DJWVDXT6.js"
+    },
+    "chunk-56LLM2UH": {
+      "file": "chunk-56LLM2UH.js"
+    },
+    "chunk-ZVR4QDJP": {
+      "file": "chunk-ZVR4QDJP.js"
+    },
+    "chunk-GPREM5WL": {
+      "file": "chunk-GPREM5WL.js"
+    },
+    "chunk-3VEP2OEA": {
+      "file": "chunk-3VEP2OEA.js"
+    },
+    "chunk-PEWUM5KQ": {
+      "file": "chunk-PEWUM5KQ.js"
+    },
+    "chunk-UHINIFCJ": {
+      "file": "chunk-UHINIFCJ.js"
+    },
+    "chunk-W4EHDCLL": {
+      "file": "chunk-W4EHDCLL.js"
+    },
+    "chunk-PQOUKJFQ": {
+      "file": "chunk-PQOUKJFQ.js"
+    },
+    "chunk-5ZYNRIRP": {
+      "file": "chunk-5ZYNRIRP.js"
+    },
+    "chunk-FRDLNZPC": {
+      "file": "chunk-FRDLNZPC.js"
+    },
+    "chunk-EWTE5DHJ": {
+      "file": "chunk-EWTE5DHJ.js"
+    }
+  }
+}

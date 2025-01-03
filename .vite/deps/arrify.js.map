@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../aviato-ui/node_modules/arrify/index.js"],
+  "sourcesContent": ["'use strict';\nmodule.exports = function (val) {\n\tif (val === null || val === undefined) {\n\t\treturn [];\n\t}\n\n\treturn Array.isArray(val) ? val : [val];\n};\n"],
+  "mappings": ";;;;;AAAA;AAAA;AACA,WAAO,UAAU,SAAU,KAAK;AAC/B,UAAI,QAAQ,QAAQ,QAAQ,QAAW;AACtC,eAAO,CAAC;AAAA,MACT;AAEA,aAAO,MAAM,QAAQ,GAAG,IAAI,MAAM,CAAC,GAAG;AAAA,IACvC;AAAA;AAAA;",
+  "names": []
+}

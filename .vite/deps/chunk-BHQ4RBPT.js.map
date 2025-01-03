@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../aviato-ui/node_modules/@babel/runtime/helpers/esm/typeof.js"],
+  "sourcesContent": ["export default function _typeof(obj) {\n  \"@babel/helpers - typeof\";\n\n  if (typeof Symbol === \"function\" && typeof Symbol.iterator === \"symbol\") {\n    _typeof = function _typeof(obj) {\n      return typeof obj;\n    };\n  } else {\n    _typeof = function _typeof(obj) {\n      return obj && typeof Symbol === \"function\" && obj.constructor === Symbol && obj !== Symbol.prototype ? \"symbol\" : typeof obj;\n    };\n  }\n\n  return _typeof(obj);\n}"],
+  "mappings": ";AAAe,SAAR,QAAyB,KAAK;AACnC;AAEA,MAAI,OAAO,WAAW,cAAc,OAAO,OAAO,aAAa,UAAU;AACvE,cAAU,SAASA,SAAQC,MAAK;AAC9B,aAAO,OAAOA;AAAA,IAChB;AAAA,EACF,OAAO;AACL,cAAU,SAASD,SAAQC,MAAK;AAC9B,aAAOA,QAAO,OAAO,WAAW,cAAcA,KAAI,gBAAgB,UAAUA,SAAQ,OAAO,YAAY,WAAW,OAAOA;AAAA,IAC3H;AAAA,EACF;AAEA,SAAO,QAAQ,GAAG;AACpB;",
+  "names": ["_typeof", "obj"]
+}
